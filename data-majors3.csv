@@ -1,0 +1,38 @@
+Fall 2018,Fall 2019,Fall 2020,Fall 2021
+CogSci,CS,CogSci + Math,CogSci + Psych
+CS,Stats + CS,CogSci + Math + CS,CogSci + Stats
+CogSci + CS,CS + CogSci,Stats + CS,CogSci + Math
+Psychology,Neuroscience + CogSci,CogSci + Stats + CS,CS
+Biology,CS + CogSci,CogSci + Neuro,CogSci + CS
+Neuroscience,CS + CogSci,CogSci + Math + Stats,CogSci + CS + Stats
+CogSci + CS,Linguistics + CogSci,CogSci + Philosophy,CogSci + Stats
+CS,Neuroscience + CogSci,CogSci + Stats,CogSci + Physics
+CS,CS + CogSci,CogSci + CS,CogSci + Psych
+Psychology,Psych + CogSci,CogSci + Psych,CogSci + CS + Psych
+Philosophy,Psych,CogSci + CS,CS
+Linguistics,CogSci + Linguistics,CogSci,CogSci + CS
+,CogSci,CogSci + Film,CogSci + Stats
+,Psych + CogSci,CogSci + Stats,CogSci + PHL
+,Psych + CogSci,CogSci + Psych,CogSci + Math + Stats
+,CogSci,CogSci + Stats,CogSci + CS
+,Psych + CogSci,CogSci + Stats,CogSci + CS
+,CS + CogSci,CogSci + CS,CogSci + BioEthics
+,CS + CogSci,CogSci + CS,CogSci + Math + CS
+,CogSci,CogSci + Psych,CogSci + CS
+,CS + CogSci,CogSci + Stats,CogSci + Psych
+,Engineering,CogSci + Lin + Philosophy,CogSci + CS
+,CogSci + Biological Physics,CogSci + Philosophy,CS
+,CogSci,CogSci + Stats + CS,CogSci + Econ
+,CS + CogSci,CogSci,CogSci + Stats + Math
+,Stats + CogSci,CogSci + Math + Stats,
+,CogSci + Genetics,CogSci + Stats + CS,CS + Neurosci
+,CS + CogSci,CogSci + Psych + History,CogSci + Math
+,CogSci,CogSci + Neuro,CogSci + Psych
+,Neuroscience + CogSci,CogSci + Stats + CS,CogSci + CS
+,CogSci,CogSci + Psych,CogSci + PHL
+,CogSci,CogSci + CS,CogSci + Psych
+,Stats + CogSci,CogSci + Psych,CogSci + Psych
+,Psych + CogSci,CogSci + Environmental,CogSci + Stats
+,Linguistics + CogSci,CogSci + Neuro,CogSci + PHL
+,Neuroscience + CogSci,CogSci + Psych,
+,Psych + CogSci,,
